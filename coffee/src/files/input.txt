@@ -1,0 +1,5 @@
+#1 student_name		total_marks	 physics_marks	 maths_marks 	chemistry_marks
+#2  xyz 		100		 75		 80		 65
+#3  abc			100		 30	 	 45		 60
+#4  def 		100		 40		 55		 72
+

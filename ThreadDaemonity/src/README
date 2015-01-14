@@ -1,0 +1,3 @@
+1. Goto src directory
+2. javac com/smc/threads/daemonity/Main*.java
+3. java com.smc.threads.daemonity.MainSimpleThreadDaemonForever

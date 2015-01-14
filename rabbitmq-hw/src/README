@@ -1,0 +1,7 @@
+Ensure you have following jars in the same folder
+junit.jar
+rabbitmq-client.jar
+rabbitmq-client-tests.jar
+commons-cli-1.1.jar
+commons-io-1.2.jar
+
