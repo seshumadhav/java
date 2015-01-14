@@ -1,0 +1,109 @@
+2013-07-22 10:06:07,646 - root - INFO - Calling Child1
+2013-07-22 10:06:07,648 - com.mobolt.father.child1.Child1 - FATAL - I am fatal
+2013-07-22 10:06:07,648 - com.mobolt.father.child1.Child1 - FATAL - I am fatal
+2013-07-22 10:06:07,649 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 10:06:07,649 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 10:06:07,650 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 10:06:07,650 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 10:06:07,650 - root - ERROR - I errored
+2013-07-22 10:07:16,389 - root - INFO - Calling Child1
+2013-07-22 10:07:16,392 - CChild1 - FATAL - I am fatal
+2013-07-22 10:07:16,392 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 10:07:16,392 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 10:07:16,393 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 10:07:16,393 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 10:07:16,393 - root - ERROR - I errored
+2013-07-22 12:59:59,364 - root - INFO - Calling Child1
+2013-07-22 12:59:59,366 - com.mobolt.father.MainProgram - INFO - Calling Child1
+2013-07-22 12:59:59,366 - com.mobolt.father.MainProgram - INFO - Calling Child1
+2013-07-22 12:59:59,367 - CChild1 - FATAL - I am fatal
+2013-07-22 12:59:59,368 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 12:59:59,368 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 12:59:59,369 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 12:59:59,369 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 12:59:59,372 - root - ERROR - I errored
+2013-07-22 13:04:27,584 - root - INFO - Calling Child1
+2013-07-22 13:04:27,586 - CChild1 - FATAL - I am fatal
+2013-07-22 13:04:27,587 - CChild1 - INFO - I am fatal
+2013-07-22 13:04:27,587 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 13:04:27,587 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 13:04:27,588 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 13:04:27,588 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 13:04:27,590 - root - ERROR - I errored
+2013-07-22 13:05:15,862 - root - INFO - Calling Child1
+2013-07-22 13:05:15,865 - CChild1 - FATAL - I am fatal. Look how I ll be printed in next line
+2013-07-22 13:05:15,865 - CChild1 - INFO - I am fatal
+2013-07-22 13:05:15,866 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 13:05:15,866 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 13:05:15,867 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 13:05:15,867 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 13:05:15,870 - root - ERROR - I errored
+2013-07-22 13:05:47,855 - root - INFO - Calling Child1
+2013-07-22 13:05:47,858 - CChild1 - FATAL - I am fatal. Look how I ll be printed in next line
+2013-07-22 13:05:47,858 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 13:05:47,858 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 13:05:47,859 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 13:05:47,859 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 13:05:47,859 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 13:05:47,859 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 13:05:47,862 - root - ERROR - I errored
+2013-07-22 14:25:00,237 - com.mobolt.common.MyLogger - FATAL - Beginning beginning fatal!
+2013-07-22 14:25:00,237 - com.mobolt.common.MyLogger - FATAL - Beginning beginning fatal!
+2013-07-22 14:25:00,239 - root - INFO - Calling Child1
+2013-07-22 14:25:00,239 - CChild1 - FATAL - I am fatal. Look how I ll be printed in next line
+2013-07-22 14:25:00,240 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 14:25:00,240 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 14:25:00,241 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 14:25:00,241 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 14:25:00,245 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 14:25:00,245 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 14:25:00,245 - root - ERROR - I errored
+2013-07-22 14:27:33,687 - com.mobolt.father.MainProgram - FATAL - Beginning beginning fatal!
+2013-07-22 14:27:33,687 - com.mobolt.father.MainProgram - FATAL - Beginning beginning fatal!
+2013-07-22 14:27:33,689 - root - INFO - Calling Child1
+2013-07-22 14:27:33,689 - CChild1 - FATAL - I am fatal. Look how I ll be printed in next line
+2013-07-22 14:27:33,690 - com.mobolt.father.MainProgram - INFO - I am fatal
+2013-07-22 14:27:33,690 - com.mobolt.father.MainProgram - INFO - I am fatal
+2013-07-22 14:27:33,690 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 14:27:33,690 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 14:27:33,695 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 14:27:33,695 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 14:27:33,695 - root - ERROR - I errored
+2013-07-22 14:30:07,052 - com.mobolt.father.MainProgram - FATAL - Beginning beginning fatal!
+2013-07-22 14:30:07,052 - com.mobolt.father.MainProgram - FATAL - Beginning beginning fatal!
+2013-07-22 14:30:07,057 - root - INFO - Calling Child1
+2013-07-22 14:30:07,061 - CChild1 - FATAL - I am fatal. Look how I ll be printed in next line
+2013-07-22 14:32:35,254 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 14:32:35,254 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 14:34:20,224 - com.mobolt.father.MainProgram - FATAL - Beginning beginning fatal!
+2013-07-22 14:34:20,224 - com.mobolt.father.MainProgram - FATAL - Beginning beginning fatal!
+2013-07-22 14:34:20,229 - root - INFO - Calling Child1
+2013-07-22 14:34:20,229 - CChild1 - FATAL - I am fatal. Look how I ll be printed in next line
+2013-07-22 14:34:20,229 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 14:34:20,229 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 14:34:20,230 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 14:34:20,230 - com.mobolt.father.child2.Child2 - DEBUG - I debug
+2013-07-22 14:34:20,230 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 14:34:20,230 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 14:34:20,233 - root - ERROR - I errored
+2013-07-22 14:40:17,946 - com.mobolt.father.MainProgram - FATAL - Beginning beginning fatal!
+2013-07-22 14:40:17,946 - com.mobolt.father.MainProgram - FATAL - Beginning beginning fatal!
+2013-07-22 14:40:17,949 - root - INFO - Calling Child1
+2013-07-22 14:40:17,949 - CChild1 - FATAL - I am fatal. Look how I ll be printed in next line
+2013-07-22 14:40:17,949 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 14:40:17,949 - com.mobolt.father.child1.Child1 - INFO - I am fatal
+2013-07-22 14:40:17,950 - com.mobolt.father.child2.Child2 - DEBUG - I debug. See how am I throwing throwable
+2013-07-22 14:40:17,950 - com.mobolt.father.child2.Child2 - DEBUG - I debug. See how am I throwing throwable
+2013-07-22 14:40:17,951 - com.mobolt.father.child2.Child2 - FATAL - I am error
+java.lang.Throwable: I am throwing
+	at com.mobolt.father.child2.Child2.callMe2(Child2.java:16)
+	at com.mobolt.father.child1.Child1.callMe1(Child1.java:19)
+	at com.mobolt.father.MainProgram.main(MainProgram.java:17)
+2013-07-22 14:40:17,951 - com.mobolt.father.child2.Child2 - FATAL - I am error
+java.lang.Throwable: I am throwing
+	at com.mobolt.father.child2.Child2.callMe2(Child2.java:16)
+	at com.mobolt.father.child1.Child1.callMe1(Child1.java:19)
+	at com.mobolt.father.MainProgram.main(MainProgram.java:17)
+2013-07-22 14:40:17,959 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 14:40:17,959 - com.mobolt.father.child3.Child3 - INFO - I info
+2013-07-22 14:40:17,959 - root - ERROR - I errored

@@ -1,0 +1,28 @@
+
+2013-07-23 08:45:29 +0530   FATAL     com.mobolt.common.MyLogger.log(MyLogger.java:20)
+Beginning beginning fatal!
+
+2013-07-23 08:45:29 +0530   INFO      com.mobolt.father.MainProgram.main(MainProgram.java:16)
+Calling Child1
+
+2013-07-23 08:45:29 +0530   FATAL     com.mobolt.father.child1.Child1.callMe1(Child1.java:15)
+I am fatal. Look how I ll be printed in next line
+
+2013-07-23 08:45:29 +0530   INFO      com.mobolt.father.child1.Child1.callMe1(Child1.java:17)
+I am fatal
+
+2013-07-23 08:45:29 +0530   DEBUG     com.mobolt.father.child2.Child2.callMe2(Child2.java:14)
+I debug. See how am I throwing throwable
+
+2013-07-23 08:45:29 +0530   FATAL     com.mobolt.common.MyLogger.log(MyLogger.java:28)
+I am t
+java.lang.Throwable: I am throwing
+	at com.mobolt.father.child2.Child2.callMe2(Child2.java:16)
+	at com.mobolt.father.child1.Child1.callMe1(Child1.java:19)
+	at com.mobolt.father.MainProgram.main(MainProgram.java:17)
+
+2013-07-23 08:45:29 +0530   INFO      com.mobolt.father.child3.Child3.callMe3(Child3.java:12)
+I info
+
+2013-07-23 08:45:29 +0530   ERROR     com.mobolt.father.MainProgram.callMain(MainProgram.java:21)
+I errored
